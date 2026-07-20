@@ -1,71 +1,157 @@
-# Adnan Naous' Computer Science Journey
+<div align="center">
 
-This repository is a long-term, evidence-based record of my computer science learning. It is designed to remain useful to me, human contributors, and AI coding assistants without relying on private conversations or earlier chat history.
+# Adnan Naous Journey
 
-The goal is not to present a perfect path. It is to preserve what I tried, what I misunderstood, how I corrected it, and what I can now demonstrate.
+### A transparent, evidence-based computer science learning repository
 
-## Repository map
+**Adnan Naous** · Computer Science Student
 
-| Path | Purpose |
+Currently focused on **Java**, **Python**, **computer science fundamentals**,  
+**software engineering**, and **AI-assisted development**.
+
+This repository records my real learning: original reasoning, corrections, experiments, projects, and progress—without presenting generated material as personal mastery.
+
+<p>
+  <img src="https://img.shields.io/badge/Computer_Science-111827?style=flat-square" alt="Computer Science">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/Learning_in_Public-2563EB?style=flat-square" alt="Learning in Public">
+  <img src="https://img.shields.io/badge/Documentation-English-059669?style=flat-square" alt="English Documentation">
+  <img src="https://img.shields.io/badge/Status-Active_Development-7C3AED?style=flat-square" alt="Active Development">
+</p>
+
+[Explore the journey](#explore-the-journey) · [Current focus](#current-learning-focus) · [Recent learning](#recent-learning) · [Progress](#progress-overview)
+
+</div>
+
+---
+
+## About this repository
+
+I am **Adnan Naous**, a computer science student building a durable record of how I learn—not just a gallery of finished results. The repository is designed to preserve useful attempts, misunderstandings, corrections, explanations, practice, and applied work as they develop over time.
+
+Everything is organized so that a visitor, human contributor, or AI assistant can understand the journey from the repository itself without needing private conversations or previous chat history.
+
+> Progress here means documented understanding and reproducible evidence. It does not mean claimed expertise.
+
+## Explore the Journey
+
+| Destination | What you will find |
 | --- | --- |
-| [`learning/`](learning/) | Structured learning material, organized by subject |
-| [`projects/`](projects/) | Self-contained applications and experiments |
-| [`challenges/`](challenges/) | Practice problems, attempts, and verified solutions |
-| [`notes/`](notes/) | Concise subject notes and concept explanations |
-| [`resources/`](resources/) | Reviewed books, courses, papers, and references |
-| [`progress/`](progress/) | Evidence-based progress logs and milestone reviews |
-| [`templates/`](templates/) | Reusable document templates |
-| [`archive/`](archive/) | Superseded or inactive material retained for context |
+| **[Learning](learning/)** | Structured learning entries organized by computer science subject. |
+| **[Projects](projects/)** | Self-contained applications and experiments that apply learned concepts. |
+| **[Challenges](challenges/)** | Practice problems with attempts, corrections, reasoning, and validated solutions. |
+| **[Notes](notes/)** | Concise, searchable references and concept explanations organized by subject. |
+| **[Resources](resources/)** | Evaluated books, courses, documentation, papers, and other learning sources. |
+| **[Progress](progress/)** | Evidence-based learning logs, milestone reviews, blockers, and next steps. |
+| **[Changelog](CHANGELOG.md)** | Notable changes to the repository and its structure. |
+| **[Agent rules](AGENTS.md)** | The operational source of truth for AI agents and contributors. |
 
-Repository-wide operating instructions are in [`AGENTS.md`](AGENTS.md). Contribution and Git rules are in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+## Current Learning Focus
 
-## Core principles
+These are current priorities and roadmap areas, not claims of mastery.
 
-- Organize knowledge by subject, not by chat, tool, or date alone.
-- Convert useful conversations into independent documentation; do not store raw transcripts.
-- Search for related material before creating a new file.
-- Preserve attempts, mistakes, corrections, and personal reasoning when they add educational value.
-- Verify technical claims and code in proportion to their risk.
-- Label tested results, partial validation, and untested assumptions clearly.
-- Never invent sources, progress, test results, or achievements.
-- Never store secrets, credentials, private data, or sensitive personal information.
+| Priority | Area | Current direction |
+| ---: | --- | --- |
+| 1 | Java | Fundamentals and object-oriented programming |
+| 2 | Python | Language fundamentals and practical problem-solving |
+| 3 | Git and GitHub | Version control, collaboration, and repository workflows |
+| 4 | Data Structures and Algorithms | Core structures, algorithmic reasoning, and practice |
+| 5 | Databases | Data modeling, querying, and database fundamentals |
+| 6 | Operating Systems | Processes, memory, filesystems, and system concepts |
+| 7 | Computer Networks | Network models, protocols, and communication fundamentals |
+| 8 | Software Engineering | Design, testing, maintainability, and development practices |
+| 9 | Artificial Intelligence | Foundations and responsible use of AI-assisted tools |
+| 10 | Practical Project Development | Applying concepts through increasingly complete projects |
 
-## Suggested learning subjects
+## Learning Philosophy
 
-Create subject folders only when content exists. Typical subjects include:
+This repository separates authorship and evidence so that polished documentation never misrepresents what I personally understood.
 
-- computer-science-fundamentals
-- programming-languages
-- data-structures-and-algorithms
-- software-engineering
-- databases
-- operating-systems
-- computer-networks
-- security
-- mathematics
-- artificial-intelligence
+| Layer | How it is treated |
+| --- | --- |
+| **My original understanding** | Preserved when it has educational value, including uncertainty and useful mistakes. |
+| **Faithful English version** | Translates and clarifies my words without making the technical depth appear stronger. |
+| **Understanding assessment** | Identifies correct points, misconceptions, gaps, and unconfirmed ideas. |
+| **Academic explanation** | Adds verified technical context in a clearly separate section. |
+| **Source-assisted material** | Labels what came from a lesson, document, screenshot, article, video, or other source. |
+| **Revisions and corrections** | Retains the reasoning behind meaningful changes instead of rewriting history. |
 
-Use lowercase kebab-case names. Prefer one canonical location for each concept and link to it from related material instead of duplicating it.
+AI may assist with organization, translation, review, technical validation, and academic context. It must not invent my understanding, confidence, experience, progress, or achievements. Small learning events remain concise rather than being inflated into generic chapters.
 
-## Status language
+For the complete protocol, see **[Learning Capture and Authorship Protocol](AGENTS.md#learning-capture-and-authorship-protocol)**.
 
-Use explicit evidence labels:
+## Recent Learning
 
-- **Tested:** reproduced with the documented environment and procedure.
-- **Partially tested:** only the listed checks were completed.
-- **Untested:** plausible or planned, but not executed.
-- **Deprecated:** retained for history and no longer recommended.
+This table is intentionally ready for future entries. No learning record is listed until a real entry exists in the repository.
 
-## Getting started
+| Date | Topic | Area | Status | Entry |
+| --- | --- | --- | --- | --- |
+| — | Repository foundation complete; first learning entries have not been added yet. | Repository setup | — | — |
 
-1. Read [`AGENTS.md`](AGENTS.md) and [`CONTRIBUTING.md`](CONTRIBUTING.md).
-2. Search the repository for existing related material.
-3. Choose the correct subject and content type.
-4. Copy the closest file from [`templates/`](templates/).
-5. Record evidence, sources, validation, limitations, and next steps.
-6. Review the change before requesting any Git operation.
+## Progress Overview
 
-## Current state
+Progress is recorded with evidence and descriptive learning-depth labels rather than arbitrary percentages.
 
-The repository structure and governance documents are initialized. No learning achievements, completed projects, or validated technical results are claimed yet.
+| View | Purpose | Current state |
+| --- | --- | --- |
+| **[Progress guide](progress/README.md)** | Defines how evidence-based progress is recorded. | Available |
+| **[Learning log](progress/)** | Will contain dated learning and review entries. | Awaiting first entry |
+| **[Roadmap](#current-learning-focus)** | Shows the current learning priorities. | Active and expected to evolve |
+| **[Milestones](progress/README.md)** | Will link achievements to documented evidence. | No milestones claimed yet |
 
+Learning depth may be labeled **Exploring**, **Introduced**, **Developing**, **Practiced**, **Applied**, **Reviewed**, or **Verified**. Higher-confidence labels are used only when supported by explanation, practice, or project evidence.
+
+Technical results use separate validation labels: **Tested**, **Partially tested**, **Untested**, or **Deprecated**.
+
+## Featured Learning and Projects
+
+> **Nothing is featured yet.** This section will highlight strong learning entries and completed or meaningfully developed projects only after they exist and have supporting evidence.
+
+## Repository Structure
+
+```text
+Adnan-Naous-Journey/
+├── learning/     # Subject-based learning entries
+├── projects/     # Self-contained practical builds
+├── challenges/   # Exercises, attempts, and corrections
+├── notes/        # Concise subject references
+├── resources/    # Reviewed learning sources
+├── progress/     # Logs, evidence, and milestones
+├── templates/    # Reusable documentation templates
+└── archive/      # Superseded material retained for context
+```
+
+Each concept should have one canonical location. Related entries should link to that source instead of duplicating it.
+
+## Contribution and AI Rules
+
+The repository is tool-independent and can be used by **Codex**, **Claude Code**, **Cursor**, **Antigravity**, other AI agents, or human contributors.
+
+- **[AGENTS.md](AGENTS.md)** is the operational source of truth.
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** defines contribution and Git workflow rules.
+- Documentation is normally written in English.
+- AI agents may not commit, push, merge, deploy, or delete substantial content without explicit approval.
+- Raw conversations, secrets, private data, and invented sources or achievements do not belong here.
+
+## Evidence before appearance
+
+- Technical claims and code should be validated in proportion to their risk.
+- Tested results must be distinguished from assumptions and incomplete checks.
+- Existing related material should be reviewed before new files are created.
+- Attempts, mistakes, corrections, and personal reasoning should remain visible when educationally valuable.
+- No project, exercise, resource, or learning milestone is treated as complete without evidence.
+
+---
+
+<div align="center">
+
+### Adnan Naous
+
+**Computer Science Student**
+
+This repository is continuously evolving as new concepts are studied, questioned, practiced, corrected, and applied.
+
+[Learning](learning/) · [Projects](projects/) · [Challenges](challenges/) · [Notes](notes/) · [Progress](progress/) · [Repository rules](AGENTS.md)
+
+</div>
