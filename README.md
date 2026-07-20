@@ -83,11 +83,11 @@ For the complete protocol, see **[Learning Capture and Authorship Protocol](AGEN
 
 ## Recent Learning
 
-This table is intentionally ready for future entries. No learning record is listed until a real entry exists in the repository.
+This table lists recent learning only after a corresponding repository entry exists.
 
 | Date | Topic | Area | Status | Entry |
 | --- | --- | --- | --- | --- |
-| — | Repository foundation complete; first learning entries have not been added yet. | Repository setup | — | — |
+| 12–16 Jul 2026 | openEuler and Linux foundations | Operating Systems | Introduced | [View entry](learning/operating-systems/openeuler-and-linux-foundations.md) |
 
 ## Progress Overview
 
