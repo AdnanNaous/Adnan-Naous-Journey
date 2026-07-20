@@ -1,0 +1,46 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+
+# Local AI-agent and editor state
+.claude/
+.cursor/
+.codex/
+.antigravity/
+.idea/
+.vscode/
+*.code-workspace
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs, caches, coverage, and temporary files
+*.log
+*.tmp
+*.temp
+.cache/
+coverage/
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Common dependency and build outputs
+node_modules/
+dist/
+build/
+out/
+bin/
+obj/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
