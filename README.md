@@ -87,7 +87,7 @@ This table lists recent learning only after a corresponding repository entry exi
 
 | Date | Topic | Area | Status | Entry |
 | --- | --- | --- | --- | --- |
-| 21 Jul 2026 | Hackathon preparation and HCIA-AI V4 overview | Progress / Artificial Intelligence | Practiced / Exposed | [View entry](progress/2026-07-21.md) |
+| 20–21 Jul 2026 | Hackathon preparation and HCIA-AI V4 overview | Progress / Artificial Intelligence | Practiced / Exposed | [View entry](progress/2026-07-21.md) |
 | 12–16 Jul 2026 | openEuler and Linux foundations | Operating Systems | Introduced | [View entry](learning/operating-systems/openeuler-and-linux-foundations.md) |
 
 ## Progress Overview
