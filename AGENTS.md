@@ -474,6 +474,37 @@ After modifying files, provide:
 
 Do not stage, commit, or push until I explicitly approve.
 
+## Simple User Summary
+
+After processing any learning entry, always give me a short and simple summary first.
+
+The summary should explain:
+
+- What I learned
+- Whether my understanding was correct
+- What file was created or updated
+- Whether anything still needs clarification
+- Whether the changes are ready for approval
+
+Keep this summary concise and easy to read.
+
+Use this format:
+
+```markdown
+## Simple Summary
+
+- Topic: [topic]
+- Your understanding: Correct / Mostly correct / Partially correct / Needs correction
+- Repository action: Created [file] / Updated [file]
+- Important correction: [one short sentence, or “None”]
+- Needs clarification: [yes/no and short reason]
+- Status: Ready for review / Waiting for your answer
+```
+
+After the simple summary, provide the full technical review required by `AGENTS.md`.
+
+Do not commit or push without my explicit approval.
+
 ## Technical accuracy and validation
 
 For code or technical instructions:
