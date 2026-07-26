@@ -87,6 +87,8 @@ This table lists recent learning only after a corresponding repository entry exi
 
 | Date | Topic | Area | Status | Entry |
 | --- | --- | --- | --- | --- |
+| 26 Jul 2026 | HCIA Datacom Day 1 | Computer Networks | Exposed | [View entry](learning/hcia-datacom/day-1.md) |
+| 24–26 Jul 2026 | Ubuntu VMware developer environment | Operating Systems | Practiced | [View entry](learning/operating-systems/ubuntu-vmware-developer-environment.md) |
 | 21 Jul 2026 | Data quality in AI learning | Artificial Intelligence | Introduced | [View entry](learning/artificial-intelligence/data-quality-in-ai-learning.md) |
 | 20–21 Jul 2026 | Hackathon preparation, HCIA-AI V4, and first certificate | Progress / Artificial Intelligence | Practiced / Introduced | [View entry](progress/2026-07-21.md) |
 | 12–16 Jul 2026 | openEuler and Linux foundations | Operating Systems | Introduced | [View entry](learning/operating-systems/openeuler-and-linux-foundations.md) |
