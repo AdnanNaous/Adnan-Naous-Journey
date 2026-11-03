@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="336" viewBox="0 0 1120 336" role="img" aria-labelledby="title desc">
+  <title id="title">Adnan Naous — VC351</title>
+  <desc id="desc">Monochrome identity card with an architectural grid and a static line. Computer science, software and agent systems.</desc>
+  <style>
+    .paper{fill:#fafafa}.ink{fill:#111}.edge{stroke:#111}.quiet{fill:#555}
+    text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}
+    .trace{stroke-dasharray:none;animation:none}
+    @keyframes trace{0%,30%{stroke-dashoffset:160}60%,100%{stroke-dashoffset:-640}}
+    @media(prefers-color-scheme:dark){.paper{fill:#111}.ink{fill:#fafafa}.edge{stroke:#fafafa}.quiet{fill:#b5b5b5}}
+    @media(prefers-reduced-motion:reduce){.trace{animation:none;stroke-dasharray:none}}
+  </style>
+  <rect class="paper" x="1" y="1" width="1118" height="334"/>
+  <g class="edge" fill="none" stroke-width="1">
+    <rect x="1" y="1" width="1118" height="334"/>
+    <path d="M1 54H1119M1 280H1119M856 54V280"/>
+    <path opacity=".12" d="M48 54V280M808 54V280M856 110H1119M856 168H1119M856 224H1119M912 54V280M968 54V280M1024 54V280M1080 54V280"/>
+  </g>
+  <g class="quiet" font-size="17" letter-spacing="2">
+    <text x="32" y="35">VC351 / PERSONAL TECHNOLOGY</text>
+    <text x="1086" y="35" text-anchor="end">01</text>
+    <text x="48" y="113">COMPUTER SCIENCE STUDENT</text>
+  </g>
+  <text class="ink" x="43" y="204" font-size="88" font-weight="700" letter-spacing="-6">ADNAN NAOUS</text>
+  <text class="quiet" x="48" y="249" font-size="18" letter-spacing="1">SOFTWARE / AI AGENTS / LOCAL-FIRST</text>
+  <g class="edge" fill="none" stroke-width="2">
+    <path d="M886 92H1088V246H886Z"/>
+    <path d="M910 116H1064V222H910Z"/>
+    <path d="M934 140H1040V198H934Z"/>
+    <path d="M958 164H1016V174H958Z"/>
+  </g>
+  <rect class="ink" x="878" y="84" width="16" height="16"/>
+  <rect class="ink" x="1080" y="238" width="16" height="16"/>
+  <path class="edge trace" d="M48 280H808" fill="none" stroke-width="3"/>
+  <text class="ink" x="32" y="314" font-size="17" letter-spacing="1">GITHUB FIRST</text>
+  <text class="quiet" x="1086" y="314" text-anchor="end" font-size="17">DEVELOP → TEST → REVIEW → DEPLOY ANYWHERE</text>
+</svg>

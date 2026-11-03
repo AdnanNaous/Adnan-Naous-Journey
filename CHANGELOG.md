@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
+- Repository-local profile artwork and a refreshed purpose-built profile README template.
+- Security reporting guidance and GitHub-first agent setup, backup and portability procedures.
+
 - Initial repository governance and long-term learning architecture.
 - Subject-oriented areas for learning, notes, resources, and challenges.
 - Areas for projects, progress evidence, reusable templates, and archived material.
