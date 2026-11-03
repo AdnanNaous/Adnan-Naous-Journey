@@ -44,3 +44,6 @@ __pycache__/
 .venv/
 venv/
 
+
+# Local credentials; inspect tracked files and history separately.
+!.env.*.example

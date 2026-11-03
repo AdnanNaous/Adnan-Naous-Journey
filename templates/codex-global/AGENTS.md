@@ -26,3 +26,7 @@ These preferences apply when this document is installed as a user-level Codex AG
 ## Repository independence
 
 Read the nearest repo-specific AGENTS.md before changing code; the global guide is not a substitute for understanding a project. Notion files, secrets, and personal context must not be assumed accessible from this guide.
+
+## Installation is explicit
+
+This is a template, not active global configuration. See [agent setup and backup guidance](../../notes/development/github-first-operations.md). Merge into an existing user-level file rather than overwriting it. Repository-root AGENTS.md files remain necessary in Codex Cloud.

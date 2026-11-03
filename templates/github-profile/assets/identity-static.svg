@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="156" viewBox="0 0 620 156" role="img" aria-labelledby="title desc">
+  <title id="title">Adnan Naous · VC351</title>
+  <desc id="desc">A quiet monochrome wordmark with elegant serif typography.</desc>
+  <style>
+    .paper{fill:#fafafa}.name{fill:#171717}.label{fill:#656565}.line{stroke:#777}
+    .line{animation:none;opacity:.5}
+    @keyframes breathe{0%,100%{opacity:.3}50%{opacity:.8}}
+    @media(prefers-color-scheme:dark){.paper{fill:#111}.name{fill:#f3f3f1}.label{fill:#aaa}.line{stroke:#aaa}}
+    @media(prefers-reduced-motion:reduce){.line{animation:none;opacity:.5}}
+  </style>
+  <rect class="paper" width="620" height="156"/>
+  <text class="label" x="310" y="31" text-anchor="middle" font-family="ui-sans-serif,Arial,sans-serif" font-size="10" letter-spacing="5">VC351</text>
+  <text class="name" x="310" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="400" letter-spacing="-2">Adnan Naous</text>
+  <path class="line" d="M286 128H334" fill="none" stroke-width="1"/>
+</svg>

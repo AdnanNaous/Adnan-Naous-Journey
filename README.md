@@ -161,3 +161,7 @@ This repository is continuously evolving as new concepts are studied, questioned
 [Learning](learning/) · [Projects](projects/) · [Challenges](challenges/) · [Notes](notes/) · [Progress](progress/) · [Repository rules](AGENTS.md)
 
 </div>
+
+## Development operations
+
+[GitHub-first workflow, agent setup, independent backups and deployment portability](notes/development/github-first-operations.md).
