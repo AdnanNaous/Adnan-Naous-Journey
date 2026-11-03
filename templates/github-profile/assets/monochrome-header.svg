@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+<title id="t">Adnan Naous / VC351</title><desc id="d">Monochrome retro-terminal profile header with an animated status cursor.</desc>
+<rect width="1200" height="320" fill="#090909"/>
+<g fill="none" stroke="#fafafa" stroke-width="1" opacity=".42">
+<path d="M20 20h1160v280H20z"/><path d="M38 38h1124v244H38z" opacity=".18"/>
+<path d="M820 45h250l100 100M740 273h250l180-140M855 66h126m-161 40h197m-243 42h276m-197 45h163"/>
+<circle cx="1016" cy="156" r="100" opacity=".35"/><circle cx="1016" cy="156" r="69" opacity=".4"/><circle cx="1016" cy="156" r="35" opacity=".5"/>
+<path d="M1016 44v224M905 156h225M985 153h62M1016 125v62"/>
+</g>
+<g stroke="#fff" stroke-width="3"><path d="M20 48V20h28M1152 20h28v28M20 272v28h28M1152 300h28v-28"/></g>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" fill="#fff">
+<text x="74" y="100" font-size="16" font-weight="700" letter-spacing="4" fill="#a9a9a9">GITHUB / DEVELOPMENT SYSTEM</text>
+<text x="73" y="169" font-size="55" font-weight="700" letter-spacing="-2">ADNAN NAOUS</text>
+<text x="76" y="205" font-size="20" font-weight="600" letter-spacing="3" fill="#d3d3d3">VC351  //  BUILD  ·  VERIFY  ·  DEPLOY</text>
+<text x="76" y="262" font-size="14" letter-spacing="1" fill="#b8b8b8">GitHub first  /  Portable architecture  /  Local-first where practical</text>
+<rect x="501" y="135" width="13" height="45"><animate attributeName="opacity" values="1;1;0;0;1" dur="2.2s" repeatCount="indefinite"/></rect>
+</g>
+<g stroke="#777" opacity=".32"><path d="M56 227h570M56 280h520"/></g></svg>
