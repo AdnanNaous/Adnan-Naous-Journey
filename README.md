@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="templates/github-profile/assets/monochrome-header.svg" alt="Adnan Naous VC351 monochrome development banner" width="100%" />
+
 # Adnan Naous Journey
 
 ### A transparent, evidence-based computer science learning repository
